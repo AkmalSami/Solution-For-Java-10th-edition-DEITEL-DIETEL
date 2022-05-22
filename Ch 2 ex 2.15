@@ -3,7 +3,7 @@
   * integers, obtains them from the user and prints their sum, product, 
   * difference and quotient (division). Use the techniques shown in Fig. 2.7. 
   *  
-  * Author: Ajmal Sami
+  * Author: Akmal Sami
   */ 
   
  package ch02.ex02_15; 
